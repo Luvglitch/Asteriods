@@ -1,4 +1,4 @@
-This a clone of the Asteriods game by Atari made in JavaFx.
+This a clone of the Asteroids game by Atari made in JavaFx.
 
 <img width="328" height="266" alt="Screenshot from 2026-08-22 07-45-07" src="https://github.com/user-attachments/assets/0031b3c9-66e7-4870-b27e-180e275c5a6c" />
 
